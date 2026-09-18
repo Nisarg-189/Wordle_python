@@ -26,8 +26,8 @@
 
 ## 🚀 Getting Started
 
-    # 1. Clone or download this repo
-    # 2. Run the game
+     1. Clone or download this repo
+     2. Run the game
     python3 wordle.py
 
 That's it! No pip install, no setup, no headaches. 🎉
