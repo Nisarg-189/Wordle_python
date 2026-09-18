@@ -65,7 +65,7 @@ That's it! No pip install, no setup, no headaches. 🎉
 
 - Teaches string manipulation & loop logic
 - The two-pass coloring algorithm handles a genuinely tricky edge case
-- A complete, working game you can play immediately 🎮
+- A complete, working game you can play immediately 🎮 
 
 ---
 
